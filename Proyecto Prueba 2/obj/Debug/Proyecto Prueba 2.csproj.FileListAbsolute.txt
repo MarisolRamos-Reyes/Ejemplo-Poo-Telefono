@@ -1,0 +1,13 @@
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.csprojAssemblyReference.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto_Prueba_2.Form1.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto_Prueba_2.Properties.Resources.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.csproj.GenerateResource.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.csproj.CoreCompileInputs.cache
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.exe.config
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.exe
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\bin\Debug\Proyecto Prueba 2.pdb
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.exe
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto Prueba 2.pdb
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto_Prueba_2.Form2.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto_Prueba_2.Form3.resources
+C:\Users\maari\OneDrive\Documentos\A ver si jala\Proyecto Prueba 2\obj\Debug\Proyecto_Prueba_2.Form4.resources
